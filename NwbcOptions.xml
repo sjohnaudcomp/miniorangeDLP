@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NwbcOptions>
+  <SingleOptions>
+    <Theme>QuartzLight</Theme>
+    <DefaultBrowserControl>Edge</DefaultBrowserControl>
+    <CacheLocation>C:\Users\swong\AppData\Local\SAP\NWBC\Cache</CacheLocation>
+    <ActiveConnectionGuid>31b5a0da-3345-453e-ab89-81c3004a34dd</ActiveConnectionGuid>
+    <UseDefaultConnection>False</UseDefaultConnection>
+    <AutologonMode>False</AutologonMode>
+    <ShowTechnicalNames>True</ShowTechnicalNames>
+    <ShowSystemInfo>True</ShowSystemInfo>
+  </SingleOptions>
+  <ChromiumSettings>
+    <DownloadPath></DownloadPath>
+    <AskForFileLocationBeforeDownload>False</AskForFileLocationBeforeDownload>
+  </ChromiumSettings>
+  <EdgeSettings>
+    <DownloadPath></DownloadPath>
+    <AskForFileLocationBeforeDownload>False</AskForFileLocationBeforeDownload>
+    <EnablePasswordAutosave>False</EnablePasswordAutosave>
+    <EnableAutofill>True</EnableAutofill>
+    <AskWhatToDoBeforeDownload>False</AskWhatToDoBeforeDownload>
+  </EdgeSettings>
+</NwbcOptions>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Landscape updated="2025-12-29T16:18:04Z" version="1" generator="NWBC 6.5">
+  <Includes>
+    <Include url="file:///C:/Users/btarr/AppData/Roaming/SAP/Common/SAPUILandscapeGlobal.xml" index="0" description="SAP Reserved" />
+  </Includes>
+  <Workspaces>
+    <Workspace uuid="75dcd2a6-77d2-4153-9538-f190c5cec9e0" name="Local" expanded="1" hidden="0">
+      <Item uuid="95ffee1e-571b-4185-bd07-342f30c217ea" serviceid="8a29fb40-179b-46e4-a574-ae3879af592c" />
+      <Item uuid="e13acb7c-b2ac-4031-9476-24306a72af2d" serviceid="31b5a0da-3345-453e-ab89-81c3004a34dd" />
+    </Workspace>
+  </Workspaces>
+  <Services>
+    <Service uuid="8a29fb40-179b-46e4-a574-ae3879af592c" name="1. QAS (200)" url="https://vhtmxws2wd01.sap.smi.local:44380/sap/bc/ui2/flp" sapguitype="Fallback" client="200" type="FIORI" />
+    <Service uuid="31b5a0da-3345-453e-ab89-81c3004a34dd" name="2. PRODUCTION (200)" url="https://sap.sterimaxinc.com/sap/bc/ui2/flp" sapguitype="Fallback" client="200" type="FIORI" />
+  </Services>
+</Landscape>
